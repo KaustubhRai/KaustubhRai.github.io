@@ -1,7 +1,6 @@
 <header class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
-        {{ partials "google_analytics" . }}
         <span class="header__right">
             {{ if len .Site.Menus }}
                 {{ partial "menu.html" . }}
@@ -16,4 +15,5 @@
             <span class="theme-toggle unselectable">{{ partial "theme-icon.html" . }}</span>
         </span>
     </span>
+    {{ partials "google_analytics" . }}
 </header>
