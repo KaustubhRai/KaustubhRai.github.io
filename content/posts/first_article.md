@@ -46,5 +46,5 @@ tags:
 
  
 [^1]: audit - an official inspection
-[^2]: the possibility of being attacked
+[^2]: Vulnerability -  the possibility of being attacked
 [^3]: CISO - Similar to a CEO of a company but in infosec matters
