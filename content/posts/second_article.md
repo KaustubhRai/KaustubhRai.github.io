@@ -8,4 +8,4 @@ tags:
   - untagged
 ---
 
-Second Article
+Second Article, Content will soon be posted.
