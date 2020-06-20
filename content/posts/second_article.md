@@ -150,7 +150,8 @@ P.S - I wasn't able to solve this problem in an in-person CTF if anyone of you i
 1. CTFs are competitions that teach you hacking skills through different types of challenges.
 2. Jeopardy-style CTFs are the most common and typically cover five major categories:  RE, Pwn, Crypto, Web, and Stego.
 3. If you don’t know what category/categories interest you, try a bit of everything and then deep dive into your favorite areas.
-4. CTFs are more fun when you do them with friends!
+4. Try to read past CTFs writeups or watch videos of how it's solved.
+5. CTFs are more fun when you do them with friends!
 
 Don’t be discouraged if (when) you get stuck.  Everyone starts somewhere, and even if you don’t solve a challenge, you can still learn something valuable and gain enough knowledge that the next challenge is a bit easier.  Infosec is a huge field that draws upon many different skills, and there’s a lot to learn. I'm just a UNI student and I've got a long road ahead. And as always, Google ftw.
 
