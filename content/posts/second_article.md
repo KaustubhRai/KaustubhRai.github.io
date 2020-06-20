@@ -10,14 +10,20 @@ tags:
   - CTF
 ---
 
-College students or most people, in general, are drawn to hacking as they want to feel the rush of excitement that comes from hacking something. Movies and TV shows have not been kind to hacking or how it's done. It requires *a lot* of patience.
+College students or most people, in general, are drawn to hacking as they want to feel the rush of excitement that comes from hacking something.
 
-A CTF is like when a newborn chick is pushed off his nest and he/she learns how to fly and tries to survive, same as in this situation you are given a challenge in a CTF and you are expected to use your skills and find the flag[^1] and then through what you have learned you have to apply them to defend your companies against hackers or in *Layman's terms* you can call it a hacking competition.
+But their general idea of what hacking is often coming from seeing it done in a movie, television, or a video game. The problem is,  they often show it wrongly. Hacking isn't typing faster than the other person or solving a puzzle by rotating objects. It takes much longer than that and requires a lot of patience. 
 
-### What is this?
-**CTF** this term is somewhat held in high regards if you run in the cyber-security community. It tests your skills to outthink, outsmart, and most important *out hack* out of any given situation to you. 
+CTF players are often newbies and a CTF is meant for them - as an introduction to the world of cybersecurity.
 
-A CTF is called Capture The Flag, it's like a puzzle to solve but instead of a puzzle you are given an IP address or some image or some code or some software or **literally anything** and you have to work you way around using Google as your best friend and your skills in Bash Scripting and Linux. Applying real-world hacking tools to infiltrate a computer system, find intentionally placed vulnerabilities, and exploit them to capture a *flag* . You submit this *flag* so that you get points. 
+### So What is a CTF?
+
+
+A CTF is called Capture The Flag[^1], it's like a puzzle to solve but instead of a puzzle you are given an IP address or some image or some code or some software or **literally anything** and you have to work your way around using Google as your best friend and your skills in Bash Scripting and Linux. It's like when a little bird is pushed out of the nest and it has to learn to fly by itself we are expected to use our skills and find the flag and then through what we have learned you have to apply them to defend your companies against hackers or in *Layman's terms* you can call it a hacking competition. 
+
+**CTF** this term is somewhat held in high regard if you run in the cyber-security community. It tests your skills to out-think, outsmart, and most important *out hack* out of any given situation to you. 
+
+Applying real-world hacking tools to infiltrate a computer system, find intentionally placed vulnerabilities, and exploit them to capture a *flag*. You submit this *flag* so that you get points.
 
 {{< image src="/giphy.gif" alt="giphy" position="center" style="border-radius: 8px;" >}}
 
