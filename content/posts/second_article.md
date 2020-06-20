@@ -1,5 +1,5 @@
 ---
-title: "CTF's Everything"
+title: "Everything about CTFs"
 date: 2020-06-20T09:31:00+05:30
 draft: false
 toc: false
@@ -10,16 +10,16 @@ tags:
   - CTF
 ---
 
-College students or most people, in general, are drawn to hacking as they want to feel the rush of excitement that comes from hacking something. Movies and TV shows have not been kind to hacking or how it's done. It requires patience (A LOT).
+College students or most people, in general, are drawn to hacking as they want to feel the rush of excitement that comes from hacking something. Movies and TV shows have not been kind to hacking or how it's done. It requires *a lot* of patience.
 
-A CTF is like when a newborn chick is pushed off his nest and he/she learns how to fly and tries to survive, same as is this situation you are given a challenge in a CTF and you are expected to use your skills and find the flag and then through what you have learned you have to apply them to defend your companies against hackers or in *Layman's terms* you can call it a hacking competition.
+A CTF is like when a newborn chick is pushed off his nest and he/she learns how to fly and tries to survive, same as in this situation you are given a challenge in a CTF and you are expected to use your skills and find the flag[^1] and then through what you have learned you have to apply them to defend your companies against hackers or in *Layman's terms* you can call it a hacking competition.
 
 ### What is this?
 **CTF** this term is somewhat held in high regards if you run in the cyber-security community. It tests your skills to outthink, outsmart, and most important *out hack* out of any given situation to you. 
 
-A CTF is called Capture The Flag, it's like a puzzle to solve but instead of a puzzle you are given an IP address or some image or some code or some software or **literally anything** and you have to work you way around using Google as your best friend and your skills in Bash Scripting and Linux. Applying real-world hacking tools to infiltrate a computer system, find intentionally placed vulnerabilities, and exploit them to capture a *flag*[^1] . You submit this *flag* so that you get points. 
+A CTF is called Capture The Flag, it's like a puzzle to solve but instead of a puzzle you are given an IP address or some image or some code or some software or **literally anything** and you have to work you way around using Google as your best friend and your skills in Bash Scripting and Linux. Applying real-world hacking tools to infiltrate a computer system, find intentionally placed vulnerabilities, and exploit them to capture a *flag* . You submit this *flag* so that you get points. 
 
->![giphy.gif](/giphy.gif)
+{{< image src="/giphy.gif" alt="giphy" position="center" style="border-radius: 8px;" >}}
 
 Each challenge is usually oriented around a single concept.  By solving challenges, you (hopefully!) learn about a new concept, vulnerability, tool, class of attack, etc.
 A CTF can be performed individually or in a team(it's hard finding security nerds).
@@ -39,7 +39,7 @@ The categories vary from CTF to CTF, but typically include:
 * Forensics/Steganography:  given a file, image, audio, or other files, find a hidden message and get the flag.
 * Other:  this is a bit of a grab bag.  Includes random puzzles, electronics-based things, OSINT[^2], anything that doesn’t fit into the other categories.
 
-> ![giphy1.gif](/giphy1.gif)
+{{< image src="/giphy1.gif" alt="giphy1" position="center" style="border-radius: 8px;" >}}
 
 The next task in the chain can be opened only after someone or a team solve the previous task.
 
@@ -53,7 +53,7 @@ Mixed competitions may vary possible formats. It may be something like wargame w
 
 It’s definitely more fun to play with friends or even internet strangers. Playing with other people means that you can help each other, and you can also support each other when you make progress, get a new tool working, or find a flag… or when you don’t.  Especially when you’re new, CTFs can feel like repeatedly banging your head against the wall (there’s so much to learn in this field!). Having others to play alongside can definitely help lift that emotional burden when things aren’t going well, and give you people to celebrate with when you make a breakthrough.
 
->![giphy2.gif](/giphy2.gif)
+{{< image src="/giphy2.gif" alt="giphy2" position="center" style="border-radius: 8px;" >}}
 
 There are online groups that are open to beginners. A shortlist includes :
 * [_OpenToAll_](https://opentoallctf.github.io/)
@@ -67,11 +67,11 @@ You can try Slack/Discord for local security meet-up groups to see if there’s 
 There are in-person CTF's throughout the year, plus many at conferences. But also online CTFs, they run for 1-3 days, some go for a week. [_CTF Time_](https://ctftime.org/event/list/upcoming) provides you with a list of upcoming events. Some CTFs and CTF platforms are available online, year-round.
 * [OverTheWire "Bandit"](https://overthewire.org/wargames/bandit/) if you want to learn Linux commands through a beginner-friendly game.  It has a number of other great ‘wargames’ as well like Natas, Narnia, Maze. Each wargame has some levels, you pass one level to continue to the other.
 
-* [HTB](https://www.hackthebox.eu/), the most popular platform which includes both “Jeopardy” style challenges and network pen testing VMs for you to attack. You have to *hack* this site just to make an account on this platform (hint: find the login portal). After you do that, try solving the retired machines to gain confidence and then move on to the active ones. 
+* [HTB](https://www.hackthebox.eu/), the most popular platform which includes both “Jeopardy” style challenges and network pen testing VMs[^3] for you to attack. You have to *hack* this site just to make an account on this platform (hint: find the login portal). After you do that, try solving the retired machines to gain confidence and then move on to the active ones. 
 
-![pic2.jpg](/pic2.jpg)
+{{< image src="/pic2.jpg" alt="pic2" position="center" style="border-radius: 8px;" >}}
 
-All these machines are the easy ones, they are all retired boxes. One thing to keep in mind is while hacking these machines, you have to first connect to them using OpenVPN (I did not know this and it gave me a lot of headaches). Just visit the Starting Point page to understand everything on the platform.
+All these machines are the easy ones, they are all retired boxes try solving these first. One thing to keep in mind is while hacking these machines, you have to first connect to them using OpenVPN (I did not know this and it gave me a lot of headaches). Remember to visit the Starting Point page to understand everything on the platform.
 
 * [picoCTF](https://picoctf.com/) is technically an event in the fall, but the challenges remain open year-round.  This is probably my top recommendation for a beginner Jeopardy-style CTF.
 
@@ -84,7 +84,7 @@ Now before even trying to attend a CTF or hack a machine, you must know a basic 
 #### RE
 
 In industry, RE skills are used for vulnerability research.  You might be given a software program and asked to find vulnerabilities (without having source code).  Similarly, malware research involves a lot of reverse engineering.  It’s a bit more niche than its inclusion in CTFs would lead you to believe, but still a challenging/fun category.
->![giphy3.gif](/giphy3.gif)
+{{< image src="/giphy3.gif" alt="giphy3" position="center" style="border-radius: 8px;" >}}
 
 It is daunting to get started in reverse engineering, if you have little or no experience in low-level programming languages like assembly. As you get started, try to find something in the code to orient yourself… a call to a standard library function (read, scanf, printf, etc.), comments, strings, etc.
   * **Learning by doing:** [Microcorruption](https://microcorruption.com/login) a game where you try to reverse engineer (fictitious) Bluetooth locks of increasing difficulty.  It’s all in-browser (which means no-tool setup) and has a tutorial level that introduces you to some of the assembly and environment.
@@ -94,8 +94,6 @@ It is daunting to get started in reverse engineering, if you have little or no e
 #### PWN
 
 You’ll be given a program to RE, and a server and port to connect to.  The server is running that same program and has a file that contains the flag (usually called flag.txt).  These challenges are a way to learn about secure coding (typically in C), as some sort of vulnerability will let you redirect the program flow to do something different (give you a flag).  This category is probably what people think of when they think of (stereotypical) hacking.
-
->![giphy4.webp](/giphy4.webp)
 
 The learning curve is a bit steep as these challenges are more multi-disciplinary. 
   * **Learning by doing:** [Pwnable.kr](https://pwnable.kr/), [pwnable.xyz](https://pwnable.xyz/challenges/) and [pwnable.tw](https://pwnable.tw/) are all geared towards beginners.
@@ -109,7 +107,7 @@ Most challenges revolve around either decrypting a ciphertext using a classical 
 
 While jobs in cryptography are pretty niche (NSA?), knowing how cryptography works can be very beneficial to those developing software, or playing defense, as exploiting human error (in implementation) is far more likely than exploiting a flaw in a proven cryptographic system. That’s why you should “never roll your own crypto.”  : )
 
->![giphy4.gif](/giphy4.gif)
+{{< image src="/giphy4.gif" alt="giphy4" position="center" style="border-radius: 8px;" >}}
 
   * **Learning by doing:**  If you have the patience to learn to program while also learning cryptography, visit [CryptoPals](https://cryptopals.com/). It’s a step-by-step set of exercises that “demonstrate attacks on real-world crypto.”  Think [Project Euler](https://projecteuler.net/), but for cryptography.
 
@@ -145,7 +143,7 @@ P.S - I wasn't able to solve this problem in an in-person CTF if anyone of you i
 
   * **Learning by watching:**  Welp I’m lacking ideas here.  : (   Send me a link if you know of a good beginner stego/forensics series online!
 
-    > ![giphy5.gif](/giphy5.gif)
+{{< image src="/giphy5.gif" alt="giphy5" position="center" style="border-radius: 8px;" >}}
 
 ### TL;DR and thoughts
 
@@ -158,7 +156,8 @@ Don’t be discouraged if (when) you get stuck.  Everyone starts somewhere, and 
 
 Happy CTFing!
 
-  >![giphy6.gif](/giphy6.gif)
+{{< image src="/giphy6.gif" alt="giphy6" position="center" style="border-radius: 8px;" >}}
 
 [^1]: flag - a string of code that proves you discovered the flaw.
 [^2]: OSINT - the art of googling to find something useful about something or somebody
+[^3]: VM - a virtual environment that functions as a virtual computer, VMs allow multiple different operating systems to run simultaneously on a single computer
