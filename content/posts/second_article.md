@@ -1,6 +1,6 @@
 ---
 title: "CTF's Everything"
-date: 2020-05-04T09:31:00+05:30
+date: 2020-06-20T09:31:00+05:30
 draft: false
 toc: false
 images:
