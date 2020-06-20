@@ -137,7 +137,7 @@ In industry, stego and forensics skills can have a wide range of applications in
 
 This [image](https://drive.google.com/file/d/1Ew4Jq6xavP1gF_i8e2ZQVwuivLKQzlOt/view?usp=sharing) has a flag in it.
 
-P.S - I wasn't able to solve this problem in an in-person CTF if anyone of you is able to, share it :stuck_out_tongue_closed_eyes: .
+P.S - I wasn't able to solve this problem in an in-person CTF if anyone of you is able to, share how you did it :stuck_out_tongue_closed_eyes: .
 
   * **Learning by doing:**  A multi-category site like PicoCTF and Hack The Box and try some stego challenges.
 
