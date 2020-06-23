@@ -93,6 +93,9 @@ In industry, RE skills are used for vulnerability research.  You might be given 
 {{< image src="/giphy3.gif" alt="giphy3" position="center" style="border-radius: 8px;" >}}
 
 It is daunting to get started in reverse engineering, if you have little or no experience in low-level programming languages like assembly. As you get started, try to find something in the code to orient yourself… a call to a standard library function (read, scanf, printf, etc.), comments, strings, etc.
+
+[This](https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed) article covers most of the resources mentioned for RE that you are going to need, but here's my shortlist for RE.
+
   * **Learning by doing:** [Microcorruption](https://microcorruption.com/login) is a game where you try to reverse engineer (fictitious) Bluetooth locks of increasing difficulty.  It’s all in-browser (which means no-tool setup) and has a tutorial level that introduces you to some of the assembly and environment.
   * **Learning by reading:**  Hacking: The Art of Exploitation and then Practical Binary Analysis.  Hacking: The Art of Exploitation takes you from a very basic level through C, assembly, program memory, exploits, and much more.
   * **Learning by watching:**  Live Overflow has a great series on [binary exploitation](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN).  
