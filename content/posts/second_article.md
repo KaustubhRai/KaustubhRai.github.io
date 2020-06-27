@@ -66,7 +66,7 @@ There are online groups that are open to beginners. A shortlist includes :
 * [_Women Hackers_](https://www.womenhackerz.com/)
 * [_CTF Circle_](https://twitter.com/CTF_Circle)
 
- If there’s anybody interested in teaming up ou can try Slack/Discord for local security meet-up groups. The same goes for university groups if you’re a student, as there are often other people looking for teammates.
+ If there’s anybody interested in teaming up you can try Slack/Discord for local security meet-up groups. The same goes for university groups if you’re a student, as there are often other people looking for teammates.
 
 ### Where to find CTFs?
 
