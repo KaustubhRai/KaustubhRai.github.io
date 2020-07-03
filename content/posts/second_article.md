@@ -12,7 +12,7 @@ tags:
 
 College students or most people, in general, are drawn to hacking as they want to feel the rush of excitement that comes from hacking something.
 
-But their general idea of what hacking is often coming from seeing it done in a movie, television, or a video game. The problem is,  they often show it wrongly. Hacking isn't typing faster than the other person or solving a puzzle by rotating objects. It takes much longer than that and requires a lot of patience. 
+But their general idea of what hacking is often coming from seeing it done in a movie, television, or a video game. The problem is,  they often show it wrongly. Hacking isn't typing faster than the other person or solving a puzzle by rotating objects. It takes much longer than that and requires a lot of patience(Reading this article is also gonna require you a lot of patience).
 
 CTF players are often newbies and a CTF is meant for them as an introduction to the world of cybersecurity.
 
@@ -65,8 +65,9 @@ There are online groups that are open to beginners. A shortlist includes :
 * [_OpenToAll_](https://opentoallctf.github.io/)
 * [_Women Hackers_](https://www.womenhackerz.com/)
 * [_CTF Circle_](https://twitter.com/CTF_Circle)
+* [_Meetup_](https://www.meetup.com/)
 
- If there’s anybody interested in teaming up you can try Slack/Discord for local security meet-up groups. The same goes for university groups if you’re a student, as there are often other people looking for teammates.
+ If there’s anybody interested in teaming up you can try Slack/Discord for local security meet-up groups. The same goes for university groups if you’re a student, as there are often other people looking for teammates. Use them to meet other hackers/coders who can mentor you.
 
 ### Where to find CTFs?
 
@@ -75,15 +76,30 @@ There are in-person CTFs throughout the year, plus many at conferences. There ar
 
 * [HTB](https://www.hackthebox.eu/), the most popular platform which includes both “Jeopardy” style challenges and network pentesting VMs[^3] for you to attack. You have to *hack* this site just to make an account on this platform (hint: find the login portal). After you do that, try solving the retired machines to gain confidence and then move on to the active ones. 
 
-{{< image src="/pic2.jpg" alt="pic2" position="center" style="border-radius: 8px;" >}}
+{{< image src="/htb.png" alt="htb" position="center" style="border-radius: 8px;" >}}
 
-  You can try solving above machines first as they are the easy ones. These boxes are all retired. While hacking these machines, keep in mind that you have to first connect to them using OpenVPN (I did not know this and it gave me a lot of headaches). Remember to visit the Starting Point page to understand everything on the platform.
+  You can try solving above machines from the 2 columns first as they are the easy ones. These boxes are all retired. While hacking these machines, keep in mind that you have to first connect to them using OpenVPN (I did not know this and it gave me a lot of headaches). Remember to visit the Starting Point page to understand everything on the platform.
+
+* [VulnHub](https://www.vulnhub.com/) 'tis the same as HTB, it also has vulnerable machines for you to practice on. There are many blogs on how to start and how to solve such machines. I would suggest reading at least blogs for 5 machines and then try to understand the approach for starting on these machines.
+
+{{< image src="/vulnhub.png" alt="vulnhub" position="center" style="border-radius: 8px;" >}}
+
+This [Google Sheet](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8) has VulnHub and HTB boxes, it is kept updated by the fellow InfoSec people.
 
 * [picoCTF](https://picoctf.com/) is technically an event in the fall, but the challenges remain open year-round.  This is probably my top recommendation for a beginner Jeopardy-style CTF.
 
 Other multi-category platforms (paid and free) include [Root Me](https://www.root-me.org/?lang=en), [Escalate](https://escalate.today/), [Pen Tester Lab](https://pentesterlab.com/), [24/7 CTF](https://247ctf.com/), [Hacker101](https://ctf.hacker101.com/), and [CTFLearn](https://ctflearn.com/).  There are many more… if you’re a beginner, leverage these to get access to many different types of challenges in each category to determine what you like, and build up a knowledge base (Hacker101 has a few Android challenges).
 
 Now before even trying to attend a CTF or hack a machine, you must have a basic knowledge in programming or know your way around a Linux machine. Learning Linux could be hard for some people, [Learn Linux](https://tryhackme.com/room/zthlinux) is a guided room designed to teach you all the basic fundamentals of Linux that you need to get started.
+
+* Learn [Linux Fundamentals](https://tryhackme.com/room/zthlinux)
+* Learn [Nmap](https://www.youtube.com/watch?v=TyUtnOb-kS0)
+* Learn [Metasploit](https://www.youtube.com/watch?v=aRwxsn9ZEQw)
+* Hack this [Windows Machine](https://www.tryhackme.com/room/blue)
+* Learn [Web Security basics](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
+* Solve some picoCTF web challenges
+
+Do this and you are ahead of the curve (I have wasted a lot of time focusing on redundant things and getting stuck in these basic steps).  
 
 ## And now the Resource List for each category!
 
