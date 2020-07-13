@@ -44,7 +44,7 @@ tags:
  If you are interested and want to see the project my teammate has written a perfect blog explaining how you can program this type of product yourself, here's the [EXPLANATION](https://haxbabatech.blogspot.com/2020/04/build-your-own-red-team-dropbox-for_9.html)–check it out. Anyway I did not explain any programming stuff we did in the project, this was just my experience, visit [THIS](https://haxbabatech.blogspot.com/2020/04/build-your-own-red-team-dropbox-for_9.html) for more coding stuff, it's REALLY good. 
 
 
- 
+
 [^1]: audit - an official inspection
 [^2]: Vulnerability -  the possibility of being attacked
-[^3]: CISO - Similar to a CEO of a company but in infosec matters
+[^3]: CISO - Head honcho of Cyber Security, mostly reports to the CEO.
