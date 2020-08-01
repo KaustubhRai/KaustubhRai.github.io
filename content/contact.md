@@ -6,4 +6,4 @@ draft: false
 
 
 
-#### You can contact me at my email address, [raikaustubh12.gmail.com](mailto:raikaustubh12@gmail.com).
+#### You can contact me at my email address, [raikaustubh12@.gmail.com](mailto:raikaustubh12@gmail.com).
