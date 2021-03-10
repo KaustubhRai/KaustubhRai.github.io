@@ -78,7 +78,7 @@ disableHugoGeneratorInject = false
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
@@ -124,3 +124,7 @@ disableHugoGeneratorInject = false
     identifier = "contact"
     name       = "Contact"
     url        = "contact/"
+  [[menu.main]]
+    identifier = "videos"
+    name       = "Videos"
+    url        = "videos/"
