@@ -22,42 +22,44 @@ I practiced this room a while back and wrote posts on Linkedin on how to solve e
 [{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
 (Mindmap much bigger than this. Click the image)
 
-
-### [Day 1 - Injection](https://lnkd.in/gmzbwgi) 
-
-
-### [Day 2 - Broken Authentication](https://lnkd.in/df93YQm)
+->
+## [Day 1 - Injection](https://lnkd.in/gmzbwgi) 
 
 
 
-### [Day 3 - Data Exposure](https://lnkd.in/d2raTVQ)
+## [Day 2 - Broken Authentication](https://lnkd.in/df93YQm)
 
 
 
-### [Day 4 - XML External Entity](https://lnkd.in/dwCjwBF) 
+## [Day 3 - Data Exposure](https://lnkd.in/d2raTVQ)
 
 
 
-### [Day 5 - Broken Access Control](https://lnkd.in/d77jsPj)
+## [Day 4 - XML External Entity](https://lnkd.in/dwCjwBF) 
 
 
 
-### [Day 6 - Security Misconfiguration](https://lnkd.in/dtF2FaU)
+## [Day 5 - Broken Access Control](https://lnkd.in/d77jsPj)
 
 
 
-### [Day 7 - Cross-Site Scripting](https://lnkd.in/dhfK4sN)
+## [Day 6 - Security Misconfiguration](https://lnkd.in/dtF2FaU)
 
 
 
-### [Day 8 - Insecure Deserialization](https://lnkd.in/dE7ybe2)
+## [Day 7 - Cross-Site Scripting](https://lnkd.in/dhfK4sN)
 
 
 
-### [Day 9 - Components with Known Vulnerabilities](https://lnkd.in/gTBsPg8)
+## [Day 8 - Insecure Deserialization](https://lnkd.in/dE7ybe2)
 
 
 
-### [Day 10 - Insufficeint Logging and Monitoring](https://lnkd.in/d5s-Jgw)
+## [Day 9 - Components with Known Vulnerabilities](https://lnkd.in/gTBsPg8)
+
+
+
+## [Day 10 - Insufficeint Logging and Monitoring](https://lnkd.in/d5s-Jgw)
+<-
 
 
