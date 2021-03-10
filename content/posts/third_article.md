@@ -12,13 +12,4 @@ tags:
 
 Every cyber-security enthusiast has once come upon these terms **OWASP Top 10**. 
 
-The *Top 10* here means Top 10 Vulnerablities, the greatest software risks for any Web Application. OWASP is just an online community/non profit foundation that helps to improve the security of software for free.
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-``` 
-The ```diff - *Top 10* ``` here means Top 10 Vulnerablities, the greatest software risks for any Web Application. OWASP is just an online community/non profit foundation that helps to improve the security of software for free.
+The ```Top 10``` here means Top 10 Vulnerablities, the greatest software risks for any Web Application. OWASP is just an online community/non profit foundation that helps to improve the security of software for free.
