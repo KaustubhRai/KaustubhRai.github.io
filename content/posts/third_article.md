@@ -22,7 +22,7 @@ I practiced this room a while back and wrote posts on Linkedin on how to solve e
 [{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
 (Mindmap much bigger than this. Click the image)
 
-->
+
 ## [Day 1 - Injection](https://lnkd.in/gmzbwgi) 
 
 
@@ -60,6 +60,8 @@ I practiced this room a while back and wrote posts on Linkedin on how to solve e
 
 
 ## [Day 10 - Insufficeint Logging and Monitoring](https://lnkd.in/d5s-Jgw)
-<-
+
+
+OWASP Top 10, this is just one of the concepts that one needs to learn in protecting thier application. There are many other vulnerabilites present and all of this can be learned through **[THM](https://tryhackme.com/)**.
 
 
