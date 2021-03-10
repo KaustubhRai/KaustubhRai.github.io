@@ -18,5 +18,6 @@ To combat said vulnerablities and protect your website, [TryHackMe](https://tryh
 Link for the room - [TryHackMe](https://tryhackme.com/room/owasptop10)
 
 I practiced this room a while back and wrote posts on Linkedin on how to solve each challenge. This is a culmination for all those posts in one place. This is a mind map for all the things that are taught in that room
-{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}
+
+[{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
 (Much bigger than this, click on that image)
