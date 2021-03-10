@@ -7,20 +7,21 @@ Recently, I started making videos on CTFs. I explain them, on how to solve it, t
 
 You can check the whole playlist here - [Link](https://www.youtube.com/playlist?list=PLMoaiG_x8uS7tMhFLnJEsIy6JPP0GVM5L)
 
+#################################################################################
 
-First Video - 
+## First Video - 
 
 Intro to the new series
 [{{< image src="/first_video.png" alt="first_video" position="center" style="border-radius: 8px;" >}}](https://www.youtube.com/watch?v=cJS4jl_YDwg)
 
 
-Second Video - 
+## Second Video - 
 
 Common Terms in CTF Part 1
-[{{< image src="/second_video.png" alt="second_video" position="center" style="border-radius: 8px;" >}}]https://www.youtube.com/watch?v=B1Jzv-hwhE4)
+[{{< image src="/second_video.png" alt="second_video" position="center" style="border-radius: 8px;" >}}](https://www.youtube.com/watch?v=B1Jzv-hwhE4)
 
 
-Third Video - 
+## Third Video - 
 
 Common Terms in CTF Part 2
 [{{< image src="/third_video.png" alt="third_video" position="center" style="border-radius: 8px;" >}}](https://www.youtube.com/watch?v=Qf-dCRSEHnA)
