@@ -22,8 +22,7 @@ I practiced this room a while back and wrote posts on Linkedin on how to solve e
 [{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
 (Mindmap much bigger than this. Click the image)
 
-### Day 1 - Injection 
-[Link](https://lnkd.in/gmzbwgi)
+### [Day 1 - Injection](https://lnkd.in/gmzbwgi) 
 
 ### Day 2 - Broken Authentication
 [Link](https://lnkd.in/df93YQm)
