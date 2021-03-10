@@ -20,4 +20,5 @@ The *Top 10* here means Top 10 Vulnerablities, the greatest software risks for a
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+``` 
+The ```diff - *Top 10* ``` here means Top 10 Vulnerablities, the greatest software risks for any Web Application. OWASP is just an online community/non profit foundation that helps to improve the security of software for free.
