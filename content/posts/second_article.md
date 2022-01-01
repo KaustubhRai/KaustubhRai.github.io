@@ -45,7 +45,7 @@ The categories vary from CTF to CTF, but typically include:
 * Forensics/Steganography:  given a file, image, audio, or other files, find a hidden message and get the flag.
 * Other:  this is a bit of a grab bag.  Includes random puzzles, electronics-based things, OSINT[^2], anything that doesn’t fit into the other categories.
 
-{{< image src="/giphy1.gif" alt="giphy1" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy1.gif" alt="giphy1" position="center" style="border-radius: 8px;">
 
 The next task in the chain can be opened only after someone or a team solve the previous task.
 
@@ -59,7 +59,7 @@ Possible formats in Mixed competitions may vary. It may be something like wargam
 
 It’s definitely more fun to play with friends or even internet strangers. Playing with other people means that you can help each other, support each other when you make progress, get a new tool working, or find a flag… or when you don’t.  Especially when you’re new, CTFs can feel like repeatedly banging your head against the wall (there’s so much to learn in this field!). Having others to play alongside can definitely help lift that emotional burden when things aren’t going well, and give you people to celebrate with when you make a breakthrough.
 
-{{< image src="/giphy2.gif" alt="giphy2" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy2.gif" alt="giphy2" position="center" style="border-radius: 8px;">
 
 There are online groups that are open to beginners. A shortlist includes :
 * [_OpenToAll_](https://opentoallctf.github.io/)
@@ -76,13 +76,13 @@ There are in-person CTFs throughout the year, plus many at conferences. There ar
 
 * [HTB](https://www.hackthebox.eu/), the most popular platform which includes both “Jeopardy” style challenges and network pentesting VMs[^3] for you to attack. You have to *hack* this site just to make an account on this platform (hint: find the login portal). After you do that, try solving the retired machines to gain confidence and then move on to the active ones. 
 
-{{< image src="/htb.png" alt="htb" position="center" style="border-radius: 8px;" >}}
+<image src="/htb.png" alt="htb" position="center" style="border-radius: 8px;">
 
   You can try solving above machines from the 2 columns first as they are the easy ones. These boxes are all retired. While hacking these machines, keep in mind that you have to first connect to them using OpenVPN (I did not know this and it gave me a lot of headaches). Remember to visit the Starting Point page to understand everything on the platform.
 
 * [VulnHub](https://www.vulnhub.com/) 'tis the same as HTB, it also has vulnerable machines for you to practice on. There are many blogs on how to start and how to solve such machines. I would suggest reading at least blogs for 5 machines and then try to understand the approach for starting on these machines.
 
-{{< image src="/vulnhub.png" alt="vulnhub" position="center" style="border-radius: 8px;" >}}
+<image src="/vulnhub.png" alt="vulnhub" position="center" style="border-radius: 8px;">
 
 This [Google Sheet](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8) has VulnHub and HTB boxes, it is kept updated by the fellow InfoSec people.
 
@@ -132,7 +132,7 @@ Most challenges revolve around either decrypting a ciphertext using a classical 
 
 While jobs in cryptography are pretty niche (NSA?), knowing how cryptography works can be very beneficial to those developing software, or playing defense, as exploiting human error (in implementation) is far more likely than exploiting a flaw in a proven cryptographic system. That’s why you should “never roll your own crypto.”  : )
 
-{{< image src="/giphy4.gif" alt="giphy4" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy4.gif" alt="giphy4" position="center" style="border-radius: 8px;">
 
   * **Learning by doing:**  If you have the patience to learn to program while also learning cryptography, visit [CryptoPals](https://cryptopals.com/). It’s a step-by-step set of exercises that “demonstrate attacks on real-world crypto.”  Think [Project Euler](https://projecteuler.net/), but for cryptography.
 
@@ -168,7 +168,7 @@ P.S - I wasn't able to solve this problem in an in-person CTF. If anyone of you 
 
   * **Learning by watching:**  Welp I’m lacking ideas here.  : (   Send me a link if you know of a good beginner stego/forensics series online!
 
-{{< image src="/giphy5.gif" alt="giphy5" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy5.gif" alt="giphy5" position="center" style="border-radius: 8px;">
 
 ### TL;DR and thoughts
 
@@ -182,7 +182,7 @@ Don’t be discouraged if (when) you get stuck. Everyone starts somewhere, and e
 
 Happy CTFing!
 
-{{< image src="/giphy6.gif" alt="giphy6" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy6.gif" alt="giphy6" position="center" style="border-radius: 8px;" >
 
 [^1]: flag - a string of code that proves you discovered the flaw.
 [^2]: OSINT - the art of googling to find something useful about something or somebody
