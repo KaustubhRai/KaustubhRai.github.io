@@ -25,7 +25,7 @@ A CTF stands for  Capture The Flag[^1]. It's like a puzzle to solve but instead 
 
 You have to apply real-world hacking tools to infiltrate a computer system, find intentionally placed vulnerabilities, and exploit them to capture a *flag*. You then submit this *flag* so that you get points.
 
-{{< image src="/giphy.gif" alt="giphy" position="center" style="border-radius: 8px;" >}}
+<image src="/giphy.gif" alt="giphy" position="center" style="border-radius: 8px;" >
 
 Each challenge is usually oriented around a single concept.  By solving challenges, you (hopefully!) learn about a new concept, vulnerability, tool, class of attack, etc.
 A CTF can be performed individually or in a team(it's hard finding security nerds).
