@@ -21,7 +21,7 @@ I practiced this room a while back and wrote posts on Linkedin on how to solve e
 
 This is a mind map for all the things that are taught in that room.
 
-[<image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;">](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
+[{{< image src="/preview_mindmap.png" alt="mindmap" position="center" style="border-radius: 8px;" >}}](https://drive.google.com/file/d/1aBwE1J8sItyXawcbEt5YtiFXxnt50n6O/view?usp=sharing)
 (Mindmap much bigger than this. Click the image)
 
 
