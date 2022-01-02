@@ -20,6 +20,6 @@ Before she had time to make any assumptions, a loud, grumpy voice was resonating
 
 Their intelligence team had prepared for this exact scenario but it didn't help that the security center was completely empty! McSkidy sighed and dragged herself to the office to save Christmas.
 
-🌓 DAY 1 - IDOR
+[🌓 DAY 1 - IDOR](https://raikaustubh.notion.site/DAY-1-IDOR-fe575044177f4aac94768a2ada0c37b8)
 
 🏛 DAY 2 - HTTP
