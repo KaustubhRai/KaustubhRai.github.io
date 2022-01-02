@@ -3,12 +3,14 @@ title: "Advent of Cyber 3 Notes"
 date: 2021-12-31T16:01:41+05:30
 draft: false
 images:
+header-includes:
+    - \cert_edited.png
 tags:
     - cybersecurity
     - TryHackMe
 ---
 
-{{<image src="/aoc_logo.png" alt="aoc_logoo" width="100">}}
+{{<image src="/aoc_logo.png" alt="aoc_logo" width="100">}}
 
 Christmas rolled out and TryHackMe in the advent of Christmas made a room for cybersecurity enthusiasts. For the upcoming 25 days until christmas by learning the basics and completing a new, beginner friendly security exercise every day. 
 
