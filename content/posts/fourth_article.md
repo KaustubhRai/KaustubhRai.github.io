@@ -8,7 +8,7 @@ tags:
     - TryHackMe
 ---
 
-{{<image src="/aoc_logo.png" alt="aoc_logo" position="left" "width="20">}}
+{{<image src="/aoc_logo.png" alt="aoc_logo" position="left" "width="100px">}}
 
 Christmas rolled out and TryHackMe in the advent of Christmas made a room for cybersecurity enthusiasts. For the upcoming 25 days until christmas by learning the basics and completing a new, beginner friendly security exercise every day. 
 
