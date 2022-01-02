@@ -77,4 +77,4 @@ I tried to catalog my notes for each day while solving those tasks.
 
 > **PS:** If anyone's interested in seeing the certificate, here's the [LINK](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDH5MHFQGN.png).
 
-The [link](https://tryhackme.com/room/adventofcyber3) for TMS's Advent of Cyber 3 room.  
+The [link](https://tryhackme.com/room/adventofcyber3) for THM's Advent of Cyber 3 room.  
