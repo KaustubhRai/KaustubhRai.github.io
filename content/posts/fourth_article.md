@@ -8,7 +8,7 @@ tags:
     - TryHackMe
 ---
 
-{{<image src="/aoc_logo.png" alt="aoc_logo" position="center">}}
+{{<image src="/aoc_logo.png" alt="aoc_logo" position="left">}}
 
 Christmas rolled out and TryHackMe in the advent of Christmas made a room for cybersecurity enthusiasts. For the upcoming 25 days until christmas by learning the basics and completing a new, beginner friendly security exercise every day. 
 
@@ -21,6 +21,8 @@ Before she had time to make any assumptions, a loud, grumpy voice was resonating
 {{<image src="/grinch.gif" alt="grinch" position="center" style="border-radius: 8px;">}}
 
 Their intelligence team had prepared for this exact scenario but it didn't help that the security center was completely empty! McSkidy sighed and dragged herself to the office to save Christmas.
+
+I tried to catalog my notes for each day while solving those tasks. 
 
 🌓 DAY 1 - [IDOR](https://raikaustubh.notion.site/DAY-1-IDOR-fe575044177f4aac94768a2ada0c37b8)
 
