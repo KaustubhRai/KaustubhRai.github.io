@@ -3,14 +3,12 @@ title: "Advent of Cyber 3 Notes"
 date: 2021-12-31T16:01:41+05:30
 draft: false
 images:
-header:
-    - \cert_edited.png
 tags:
     - cybersecurity
     - TryHackMe
 ---
 
-{{<image src="/aoc_logo.png" alt="aoc_logo" width="100">}}
+{{<image src="/aoc_logo.png" alt="aoc_logo" position="right">}}
 
 Christmas rolled out and TryHackMe in the advent of Christmas made a room for cybersecurity enthusiasts. For the upcoming 25 days until christmas by learning the basics and completing a new, beginner friendly security exercise every day. 
 
@@ -74,4 +72,7 @@ Their intelligence team had prepared for this exact scenario but it didn't help 
 
 🌧 [DAY 25](https://raikaustubh.notion.site/DAY-25-84529285a6694b2ea7515c24ed8d77da)
 
-
+```markdown
+> **PS:** If anyone's interested in seeing the certificate, here's the [LINK](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-BDH5MHFQGN.png).
+```
+The [link](https://tryhackme.com/room/adventofcyber3) for TMS's Advent of Cyber 3 room.  
