@@ -4,7 +4,7 @@ date: 2021-12-31T16:01:41+05:30
 draft: false
 images: 
     1: 
-        - url : AOC3.png
+        - url : /static/AOC3.png
         - caption : 'AOC3 Cert'
 tags:
     - cybersecurity
