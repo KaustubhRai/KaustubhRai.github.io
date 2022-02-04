@@ -2,7 +2,7 @@
 title: "Advent of Cyber 3 Notes"
 date: 2021-12-31T16:01:41+05:30
 draft: false
-images: AOC3
+images: /static/AOC3.png
 tags:
     - cybersecurity
     - TryHackMe
