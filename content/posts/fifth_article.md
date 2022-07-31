@@ -18,7 +18,7 @@ This war-game Bandit, is targeted to the absolute beginners and teaches the basi
 Each wargame by OverTheWire has different levels of difficulty and has multiple levels in each wargame. 
 Bandit has 33 Levels to solve and it teaches about :
 - SSH
-- File Structure, Commands , Permissions in Linux
+- File Structure, Commands, Permissions in Linux
 - Bash Scripting
 - Git 
 
@@ -152,10 +152,15 @@ Read the cron file and the script file. Create a directory in */tmp* and in that
 A daemon is listening on port 30002 and it asks for the password of the current level and a 4 digit PIN. We create a directory in */tmp* and create a script file that uses for loop for numbers 0000-9999 to check which is the right one.
 
 >>#!/bin/bash
+
 >>passwd="(level 24 password)"
+
 >>for i in {0000..9999}
+
 >>do
+
 >>echo $passwd' '$i >> output.txt
+
 >>done
 
 give the script file 777 permissions and run it with nc 
