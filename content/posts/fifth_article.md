@@ -31,15 +31,19 @@ We use SSH to login in each level be it SSH password or an SSH Key.
 `ssh bandit<username>@bandit.labs.overthewire.org -p 2220` and if ssh key then `ssh -i <ssh key file> bandit<username>@localhost` and then the password you got.
 
 > Level 0 
+
 SSH commands to connect to host 
 
 > Level 1
+
 Read the file present on the current directory and use that as a password for next level. 
 
 > Level 2
+
 Read a file named "-" `cat ./-`
 
 > Level 3
+
 Read the file using `cat ./.hidden`
 
 > Level 4
