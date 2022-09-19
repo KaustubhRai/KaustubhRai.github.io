@@ -78,7 +78,7 @@ disableHugoGeneratorInject = false
   contentTypeName = "posts"
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
@@ -114,17 +114,17 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "About"
+    name       = "🔎whoami"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Posts"
+    name       = "📚Posts"
     url        = "posts/"
   [[menu.main]]
     identifier = "contact"
-    name       = "Contact"
+    name       = "📨Contact"
     url        = "contact/"
   [[menu.main]]
     identifier = "videos"
-    name       = "Videos"
+    name       = "📺Videos"
     url        = "videos/"

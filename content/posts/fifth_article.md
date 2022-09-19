@@ -1,5 +1,5 @@
 ---
-title: "Bandit, OverTheWire Wargames"
+title: "Bandit, OverTheWire Wargames 🤖🎌"
 date: 2022-07-31T16:29:43+05:30
 draft: false
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "Everything about CTFs"
+title: "CTF: How it Works 🚩"
 date: 2020-06-20T09:31:00+05:30
 draft: false
 toc: false
