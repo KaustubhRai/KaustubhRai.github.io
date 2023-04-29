@@ -1,5 +1,5 @@
 ---
-title: "🔐 Web App Security Unlocked: All-in-One Guide from Assessment to Remediation 💻"
+title: "🔐 Web App Security Unlocked: All-in-One Guide from Assessment to Remediation💻"
 date: 2023-04-30T00:34:47+05:30
 draft: false
 tags: 
@@ -16,8 +16,70 @@ tags:
 
 It's been a while since my last blog post – can you believe it's been almost a year since I graduated and started working in the cybersecurity industry? Time flies! As a relative newcomer to the industry, I've spent the past year learning as much as I can about web application security, and I'm excited to finally share some of the insights I've gained with all of you.
 
-Web apps are an essential part of our digital lives, allowing us to access information, services, and entertainment at the click of a button. But with the ever-growing number of web applications comes an increased risk of security breaches. That's where web application security assessments come into play.
+Web apps are are crucial for accessing information, services, and entertainment. However, the risk of security breaches increases with the growing number of web applications. To mitigate this risk, web application security assessments are necessary.
 
 
-In this blog post, I'll walk you through the entire process of conducting a comprehensive security assessment for your web application, identifying vulnerabilities, addressing them, and continuously improving your security posture. As someone who's still learning the ropes, I'll do my best to share my knowledge and experiences with you in a way that's both informative and accessible. So, let's dive right in!
+In this blog post, I'll walk you through the entire process of conducting a comprehensive security assessment for your web application, identifying vulnerabilities, addressing them, and continuously improving your security posture. 
+
+As someone who's still learning the ropes, I'll do my best to share my knowledge and experiences with you in a way that's both informative and accessible. So, let's dive right in!
+
+
+## Best Practices for Security Assessments
+
+### Planning and Preparation
+
+The first step in any successful security assessment is proper planning and preparation. This means setting clear goals, defining the scope of your assessment, and gathering the necessary resources (tools, team members, etc).
+
+{{<image src="/prep.gif" alt="prep" position="center" style="border-radius: 8px;" >}}
+
+Approach: Start by jotting down the objectives of your assessment, such as identifying vulnerabilities, evaluating security controls, or verifying compliance with industry standards. This will give you a clear direction to follow.
+
+### Scoping and Objectives
+
+Now that you've outlined your objectives, it's time to define the scope of your assessment. This includes determining which parts of your web application will be assessed, as well as any specific threats or vulnerabilities you're looking to identify. Keep in mind that a narrower scope allows for a more focused and thorough assessment.
+
+Call to action: Make a list of all the components, functionalities, and data flows within your web application. This will help you identify the most critical areas to assess and prioritize your efforts.
+
+### Tools and Techniques
+
+There's a wide array of tools and techniques available for web application security assessments. From automated scanners and penetration testing tools to manual testing techniques and code review practices, it's essential to choose the right mix of tools that best suit your specific needs and objectives.
+
+{{<image src="/tools.gif" alt="tools" position="center" style="border-radius: 8px;" >}}
+
+Approach: Familiarize yourself with various tools and techniques in the market, such as OWASP ZAP, Burp Suite, Snyk. Determine which ones fit your requirements and start building your security assessment toolkit.
+
+P.S : _Schedule regular meetings or stand-ups with your team to discuss progress, findings, and any roadblocks. Encourage open communication and foster a collaborative environment._
+
+
+## Identifying Vulnerabilities
+
+### Automated Scanning Tools
+
+Automated scanning tools can quickly identify common vulnerabilities in your web application. These tools typically use a database of known vulnerabilities and search for potential issues within your application's code or configuration.
+
+Approach: Scanning tools integrated in the SDLC workflow can easily reduce the workload here. SonarQube like open source tool or Snyk integrated in the CI/CD pipeline.
+
+### Manual Testing Techniques
+
+While automated tools are efficient at identifying known vulnerabilities, they can't catch everything. Manual testing techniques, such as penetration testing and code reviews, are necessary to identify more complex or customized vulnerabilities specific to your application.
+
+{{<image src="/manual_testing.gif" alt="manual" position="center" style="border-radius: 8px;" >}}
+
+Call to action: Explore well-known tools and methodologies such as OWASP Testing Guide, Penetration Testing Execution Standard (PTES), NIST SP 800-115 Technical Guide, Manual code review techniques, Scripting and Automation. 
+
+
+### Integrating Security into the Development Lifecycle
+
+By integrating security into your development lifecycle, you can catch vulnerabilities early in the process, saving time, effort, and resources down the line. This includes secure coding practices, security reviews during code commits, and continuous security testing throughout the development process.
+
+Call to action: Implement a secure development lifecycle (SDL) within your organization. Train your developers on secure coding practices and establish a process for regular security reviews and testing.
+
+
+## Addressing Vulnerabilities
+
+### Risk Prioritization
+
+Once you've identified vulnerabilities in your web application, it's essential to prioritize them based on the level of risk they pose. Factors to consider include the potential impact of the vulnerability, the likelihood of exploitation, and the affected components' criticality.
+
+Approach: Develop a risk prioritization matrix to help assess and rank vulnerabilities. This will help focus the remediation efforts on the most critical issues first.
 
