@@ -14,21 +14,20 @@ tags:
 {{<image src="/hello_there.gif" alt="hello" position="center" style="border-radius: 8px;" >}}
 
 
-It's been a while since my last blog post – can you believe it's been almost a year since I graduated and started working in the cybersecurity industry? Time flies! As a relative newcomer to the industry, I've spent the past year learning as much as I can about web application security, and I'm excited to finally share some of the insights I've gained with all of you.
+It's been a while since my last blog post – can you believe it's been almost a year since I graduated and started working in the cybersecurity industry? Time sure does  fly! As a rookie in this field, I've spent the past year absorbing all I can about web application security, API security and I'm thrilled to finally share some of the knowledge I've gained with you.
 
-Web apps are are crucial for accessing information, services, and entertainment. However, the risk of security breaches increases with the growing number of web applications. To mitigate this risk, web application security assessments are necessary.
+Web applications have become an essential part of our lives, providing us access to information, services, and entertainment. But with the growing number of web applications, the risk of security breaches also increases. To address this issue, it's crucial to carry out security assessments for web applications.
 
+In this blog post, I'll guide you through the entire process of conducting a comprehensive security assessment for your web application – from identifying vulnerabilities to addressing them and continuously improving your security posture.
 
-In this blog post, I'll walk you through the entire process of conducting a comprehensive security assessment for your web application, identifying vulnerabilities, addressing them, and continuously improving your security posture. 
-
-As someone who's still learning the ropes, I'll do my best to share my knowledge and experiences with you in a way that's both informative and accessible. So, let's dive right in!
+As someone who's still getting the hang of things, I'll do my best to share my knowledge and experiences with you in a way that's both informative and approachable. So, without further ado, let's get started!
 
 
 ## Best Practices for Security Assessments
 
 ### Planning and Preparation
 
-The first step in any successful security assessment is proper planning and preparation. This means setting clear goals, defining the scope of your assessment, and gathering the necessary resources (tools, team members, etc).
+The foundation of any successful security assessment is thorough planning and preparation. This involves setting clear goals, defining the scope of your assessment, and gathering the necessary resources (tools, team members, etc).
 
 {{<image src="/prep.gif" alt="prep" position="center" style="border-radius: 8px;" >}}
 
@@ -86,6 +85,7 @@ Approach: Develop a risk prioritization matrix to help assess and rank vulnerabi
 ### Remediation Strategies
 
 With vulnerabilities prioritized, it's time to develop remediation strategies to address them. This may involve patching vulnerable software, updating configurations, or modifying your application's code. Ensure that the remediation efforts align with your organization's risk tolerance and security objectives.
+
 
 {{<image src="/remedy.gif" alt="remedy" position="center" style="border-radius: 8px;" >}}
 
