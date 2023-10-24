@@ -8,5 +8,5 @@ draft: false
 
 I am a comic aficionado, a couch potato. If I am not busy with my studies, I solve CTFs and in my spare time watch Mr. Robot and try to implement those tactics IRL to get that unparalleled technical accuracy, or at least try to.
 
-Hope you find something you like on my blog! You can see my resume <b> [here](/Resumev13.pdf) </b> .
+Hope you find something you like on my blog! You can see my resume <b> [here](/Resume.pdf) </b> .
 
