@@ -11,11 +11,11 @@ tags:
 
 Greetings,
 
-As a cybersecurity professional, my day-to-day activities often involve tackling challenging problems that require a diverse range of resources. Over time, the need for an organized, accessible collection of this information became apparent. To address this need, I developed my own GitBook - an easily accessible platform that contains my most frequently used cybersecurity resources.
+As a AppSec professional, my day-to-day activities often involve tackling challenging problems that require a diverse range of resources. Over time, after scrolling up endlessly in my Slack DMs to myself looking for that one specific payload or some github repo that's like [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), the need for an organized, accessible collection of this information became apparent. To address this need, I developed my own GitBook. 
 
 {{<image src="/book_gif.gif" alt="book" position="center" style="border-radius: 8px;" >}}
 
-This GitBook is not a repository of courses, articles, or tools. It's an organized collection that contains:
+This GitBook isn't a dump of courses, articles, or tools. It's an organized collection that contains:
 
 1. **Cheatsheets:** Concise summaries of various security concepts and techniques.
 2. **Attack Parameters:** A diverse range of attack vectors and parameters, tested across numerous scenarios.
